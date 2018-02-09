@@ -7,6 +7,7 @@ import { default as Paragraph } from './SingleParagraph';
 import { default as DimpleDivider } from './SingleDimpleDivider';
 import { default as WaveDivider } from './SingleWaveDivider';
 import { default as DisplayHeading } from './SingleDisplayHeading';
+import { default as HairlineDivider } from './SingleHairlineDivider';
 
 export default {
   Button,
@@ -17,5 +18,6 @@ export default {
   Paragraph,
   DimpleDivider,
   WaveDivider,
-  DisplayHeading
+  DisplayHeading,
+  HairlineDivider
 };
